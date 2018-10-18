@@ -1,0 +1,7 @@
+class Main {
+    static void main() {
+        foreach (var s in z) {
+          Print(s);
+        }
+    }
+}
